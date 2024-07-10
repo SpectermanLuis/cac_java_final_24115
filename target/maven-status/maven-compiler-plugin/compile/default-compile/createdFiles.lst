@@ -1,0 +1,5 @@
+edu\ar\controller\MovieServletController.class
+edu\ar\data\Conexion.class
+edu\ar\controller\CorsFilter.class
+edu\ar\data\PeliculaDAO.class
+edu\ar\model\Pelicula.class
